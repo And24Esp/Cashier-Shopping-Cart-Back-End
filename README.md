@@ -1,6 +1,6 @@
 # Deft_Consulting
 
-Jerry's Quick Mart technical exercise.
+## Jerry's Quick Mart technical exercise.
 
 Jerry’s Quick Mart in Orlando, FL is having its grand opening in 3 days. His previously hired
 software team lost all their files, and Jerry needs a solution for his grand opening.
@@ -19,4 +19,4 @@ Inventory is passed into the application in a text file, with item information o
 receipt is printed as a .txt file, with the transaction number and date included in the file name.
 Inventory is updated after checkout to avoid customers buying items that are out of stock.
 
-This repository contains the exercice's code, as well as an explanation about the solution and the deployment process.
+### This repository contains the exercice's code, as well as an explanation about the solution and the deployment process.
