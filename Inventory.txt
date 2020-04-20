@@ -1,0 +1,5 @@
+Milk: 50, $3.75, $3.50, Tax-Exempt
+RedBull: 25, $4.31, $4.00, Taxable
+Flour: 150, $3.10, $2.75, Tax-Exempt
+Sugar: 120, $3.99, $3.60, Tax-Exempt
+Whisky: 2, $45.31, $40.00, Taxable
