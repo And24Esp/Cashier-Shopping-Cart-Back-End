@@ -19,4 +19,4 @@ Inventory is passed into the application in a text file, with item information o
 receipt is printed as a .txt file, with the transaction number and date included in the file name.
 Inventory is updated after checkout to avoid customers buying items that are out of stock.
 
-#### This repository contains the exercice's code, as well as an explanation about the solution and the deployment process.
+#### This repository contains the exercice's code, as well as an explanation about the solution and execution instructions.
